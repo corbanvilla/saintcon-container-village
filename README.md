@@ -6,3 +6,4 @@ For a beginning intro to Docker, skim through
 
 https://docs.docker.com/v17.09/get-started/
 
+You will find flags for pwned machines at /flag.txt
